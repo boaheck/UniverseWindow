@@ -13,6 +13,7 @@ void setup() {
     ellipse(x,y,size,size);
   }
   save("output.png");
+  exit();
 }
 
 color randColor(){
