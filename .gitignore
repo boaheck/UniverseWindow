@@ -1,6 +1,12 @@
 #API keys n' stuff
 secrets.js
 
+#Processing
+processing-3.3
+
+#output image
+sketch/output.png
+
 
 # Logs
 logs
