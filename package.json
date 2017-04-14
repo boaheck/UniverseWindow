@@ -1,0 +1,16 @@
+{
+  "name": "universewindow",
+  "version": "1.0.0",
+  "description": "A twitterbot that represents an alternate universe that exists as long as infinite universes exist",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "Breogán Hackett",
+  "license": "ISC"
+}
